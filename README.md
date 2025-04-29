@@ -1,15 +1,25 @@
-# Hi, I'm Bhavika 👋
-💻 Full Stack Developer | PHP | Laravel | React | Symfony | AWS | MySQL
+# 👋 Hi, I'm Bhavika Patel
 
-👩‍💻 I’m currently open to full-time remote work & freelance projects.
-🌱 10+ years of experience building scalable, secure, high-performing applications.
-🔧 Tools I work with: PHP (Laravel, Symfony), JavaScript (React, Vue), MySQL, AWS, Git
+🚀 Passionate Full-Stack Developer | Symfony & Laravel Expert | Remote-First Enthusiast
 
-## 📌 Projects
-- 🔗 [Ecommerce Platform](https://github.com/patelbhavika46/ecommerce-app): Built with Laravel (backend) and React.js and TypeScript (frontend)
-- 🔗 [API Integration Project](https://github.com/patelbhavika46/bookshop-graphqp-api): GRAPHQL APIs with Symfony
-- 🔗 [E-commerce Admin Panel](https://github.com/patelbhavika46/ecommerce-app): Secure admin system
+With over 10 years of experience building scalable web applications, I specialize in PHP (Symfony, Laravel), React, MySQL, REST APIs, and CI/CD workflows. I've led cross-functional teams, delivered high-impact projects, and mentored developers to grow strong technical teams.
 
-## 📫 Let’s connect!
-- 📧 patelbhavika46@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/bhavika30)
+## 🔧 Tech Stack
+
+- **Languages:** PHP, JavaScript, TypeScript, HTML, CSS, SQL
+- **Frameworks:** Symfony, Laravel, Yii, React.js, Vue.js, RabbitMQ
+- **Tools:** Docker, Git, Bitbucket, SVN, JIRA, Zoho, buddyworks,
+- **Cloud:** AWS, Redis, MySQL, MongoDB
+
+## 💼 Recent Experience
+
+- **Team Lead at HALIGHT Inc. (2018–2024):** Led LMS development, API integrations, and Agile ceremonies  
+- **Senior Developer at Ecosmob (2013–2018):** Built VoIP and scalable backend systems
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/bhavika30)
+- [Email](mailto:bhavika.patel3005@gmail.com)
+---
+
+Feel free to connect or explore my work. Always happy to collaborate on exciting projects!
